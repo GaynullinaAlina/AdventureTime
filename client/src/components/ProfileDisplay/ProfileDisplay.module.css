@@ -1,0 +1,9 @@
+.editBtn {
+    background: linear-gradient(rgba(40, 207, 232, 0.4), rgba(59, 165, 98, 0.9));
+    background-color: rgb(93, 198, 93);
+    width: 330px;
+    color: white;
+    font-weight: 600;
+    margin-bottom: 20px;
+    height: 40px;
+}
